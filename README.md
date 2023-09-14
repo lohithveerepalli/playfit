@@ -1,1 +1,1 @@
-# playfit is a react-native app
+# Playfit is a react-native app
